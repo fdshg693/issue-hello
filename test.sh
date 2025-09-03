@@ -1,0 +1,1 @@
+npx smee-client --url https://smee.io/11gnL66qJFJb5 --target http://localhost:3000/api/github/webhooks
